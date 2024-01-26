@@ -1,0 +1,34 @@
+identifica el tipo de datos = dinámico
+no hay que declarar el tipo de dato que llevara la variable = tipado débil
+reglas que tienen que leer los navegadores para entender js = ECMAscript
+
+js es case sensitive por que diferencia entre mayusculas y minusculas
+las instrucciones se denominan declaraciones
+si se hace más de una declaración es necesario separar por ;
+
+ECMAscript coloca el ; en caso de no llevarlo
+
+
+var: variable antigua(global)
+let: variable de bloque(local)
+const: constante
+
+HOISTING: cuándo no hay una variable declarada crea de forma automatica una variable global
+cualquiera puede declarar nuevas variables - desventaja
+se puede desactivar usando el modo estricto 'use strict'
+
+var es recomendable ya no usarla, se queda obsoleta por problemas de seguridad
+const tiene alcanze de bloque
+
+camel case holaMundo
+pascal case HolaMundo
+
+no primitivos vienen de los primitivos
+
+los tipos de datos vienen de objetos por lo tanto tienen métodos, se les llama prototipos
+los datos primitivos son inmutables
+
+no primitivos: objetos, maps, arreglos
+
+declarativa llamar/acceder en cualquier parte del archivo
+expresion debe declararse la funcion antes de acceder a ella

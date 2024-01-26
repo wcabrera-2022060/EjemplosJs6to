@@ -1,0 +1,10 @@
+tablas ya no son tablas, ahora con colecciones
+registros son documentos
+
+escalabilidad vertical usa mas servidores
+escalabilidad horizontal mas recursos ram, rom etc
+
+los JSON siempre llevan comillas dobles tanto en clave como en valor
+
+crear carpeta data y adentro de ella carpeta db, en el disco local
+
